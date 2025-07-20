@@ -1,0 +1,29 @@
+topo / miolo:
+#043465
+
+Rodapé 1:
+#04172c
+
+Rodapé 2:
+#010b15
+
+Botão:
+#72130d
+
+Fonte Menu:
+#579fe8
+
+Fonte Rodapé 1:
+#84b1e0
+
+Fonte miolo:
+#444
+
+background formulário:
+#bfdeff
+
+contorno formulário:
+#1d2b39
+
+fonte placeholder:
+#85add7
